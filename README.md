@@ -91,7 +91,7 @@ recruitment-phishing-investigation/
 
 ---
 
-## Evidence Index
+## Evidence
 
 See [`evidence_redacted/README.md`](evidence_redacted)
 
